@@ -1,6 +1,6 @@
 ## Oracle Agent
 
-At the forefront of merging quantum computing with artificial intelligence. We are making the development of an Oracle AI that uses NV centers in diamonds, implemented on a custom board. This unique approach utilizes the principles of quantum mechanics to enhance predictive capabilities and computational efficiency.
+At the forefront of merging quantum computing with artificial intelligence. Making the development of an Oracle AI that uses NV centers in diamonds, implemented on a custom pci board. This unique approach utilizes the principles of quantum mechanics to enhance predictive capabilities and computational efficiency.
 
 # Projects:
 
