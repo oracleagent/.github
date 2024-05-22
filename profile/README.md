@@ -7,9 +7,6 @@ Developing an Oracle AI utilizing NV centers in diamonds, implemented on a custo
 
 # Projects:
 
-### Crypto Trading Agent:
-> As part of diverse initiatives, this project focuses on developing a sophisticated crypto trading bot. This bot is designed to optimize trading strategies and improve investment outcomes.
-
 ### LLM Agents Organization: 
 > LLM Agents Organization: Advanced Distributed LLM Framework
 
